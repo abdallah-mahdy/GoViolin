@@ -57,3 +57,5 @@ Contains:
 ```bash
     docker-compose up -d
 ```
+## How the pipeline works ?
+![devops](https://user-images.githubusercontent.com/51873396/119872868-37c02800-bf24-11eb-82fd-3747780f9c97.png)
