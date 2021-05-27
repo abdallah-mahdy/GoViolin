@@ -73,3 +73,6 @@ Contains:
 * Kubernetes
 ## How the CI/CD pipeline works ?
 ![devops](https://user-images.githubusercontent.com/51873396/119872868-37c02800-bf24-11eb-82fd-3747780f9c97.png)
+
+
+![jenkins_pipline](https://user-images.githubusercontent.com/51873396/119893029-26cee100-bf3b-11eb-95a6-70222087e126.png)
