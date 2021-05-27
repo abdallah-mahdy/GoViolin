@@ -4,6 +4,7 @@ FROM golang:1.16.4-alpine as build-stage
 # making goviolin my working directory
 WORKDIR /goviolin
 
+# Copy the source code
 COPY . .
 
 # creating go.mod file
