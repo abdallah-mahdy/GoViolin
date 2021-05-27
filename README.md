@@ -1,5 +1,12 @@
 # GoViolin 🐱‍🏍
 
+* [GoViolin 🐱🏍](#goviolin-)
+   * [Description <g-emoji class="g-emoji" alias="monocle_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d0.png">🧐</g-emoji>](#description-)
+   * [Prerequisites](#prerequisites)
+   * [Build and Run <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>](#build-and-run-)
+   * [Tools &amp; Technologies used <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>](#tools--technologies-used-)
+   * [How the CI/CD pipeline works ?](#how-the-cicd-pipeline-works-)
+
 ## Description 🧐
 
 GoViolin is a web app written in Go that helps with violin practice.
@@ -57,5 +64,10 @@ Contains:
 ```bash
     docker-compose up -d
 ```
-## How the pipeline works ?
+## Tools & Technologies used 🛠
+* Go programming language
+* Docker
+* Jenkins 
+* Kubernetes
+## How the CI/CD pipeline works ?
 ![devops](https://user-images.githubusercontent.com/51873396/119872868-37c02800-bf24-11eb-82fd-3747780f9c97.png)
