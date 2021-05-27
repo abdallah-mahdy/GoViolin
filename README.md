@@ -1,4 +1,6 @@
 # GoViolin 🐱‍🏍
+Table of Contents
+=================
 
 * [GoViolin 🐱🏍](#goviolin-)
    * [Description <g-emoji class="g-emoji" alias="monocle_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d0.png">🧐</g-emoji>](#description-)
