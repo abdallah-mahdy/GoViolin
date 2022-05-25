@@ -1,7 +1,7 @@
 pipeline {
 
   /*
-  * CloudBees Docker Build and Publish, k8s , k8s Continuous Deploy  Plugins should be installed and configued on jenkins server
+  * CloudBees Docker Build and Publish, k8s Plugins should be installed and configued on jenkins server
   * dockerhub  credentials should be configured on jenkins server
   * i'm using jenkins declarative pipeline
   * jenkins E-main notification should be configured on jenkins server
