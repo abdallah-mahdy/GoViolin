@@ -1,3 +1,5 @@
+# i'm using multi-stage  technique to minimize the size of the image
+
 # starting from golang alpine base image
 FROM golang:1.16.4-alpine as build-stage
 
@@ -19,7 +21,7 @@ RUN export CGO_ENABLED=0
 RUN go build -o goviolin .
 
 ##########################################################################
-# use multi-stage docker builds technique to minimize the size of the image
+# use multi-stage 
 
 FROM alpine
 
